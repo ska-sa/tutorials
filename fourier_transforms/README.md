@@ -11,8 +11,8 @@ The notebooks demonstrate:
 3. Introductory principles
 4. An explicit DFT
 5. Basic Fourier transform pairs
-6. The convolution theorem
-7. <coming> 
+6. Doing a convolution from the definition
+7. The convolution theorem
 8. <coming>
 9. Looking at Nyquist sampling in the Fourier domain
 10. 2D Fourier transform examples
