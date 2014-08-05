@@ -2,7 +2,7 @@ Fourier Transforms
 ==================
 
 Some introductory Fourier Transforms ipython notebooks. Most of these notebooks were developed for the [NASSP](http://www.star.ac.za) honours course in Radio Astronomy.
-(These notebooks are version 0.12, due to the computer lab requirement of the NASSP course.)
+(These notebooks are nbformat 2, from IPython version 0.12, due to the computer lab requirement of the NASSP course.)
 
 The notebooks demonstrate:
 
