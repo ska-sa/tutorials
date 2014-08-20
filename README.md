@@ -1,7 +1,7 @@
 Radio Astronomy tutorials
 ==========================
 
-Various tutorials developed at SKA SA.
+Various IPython notebook based lecture meterial and tutorials developed at SKA SA.
 
 1. Introduction to Radio Astronomy (~3 hour tutorial) 
 <br/>
