@@ -8,5 +8,9 @@ They are typically run as an ~3 hour tutorial.
 
 Tutorials:
 
-1. An introduction to single dish radio data, including an introduction to the ipython notebook.
-2. An introduction to radio interferometry.
+1. **Single-Dish data analysis** 
+<br/> 
+An introduction to single dish radio astronomy data, including an introduction to the ipython notebook.
+2. **Interferometry** 
+<br/>
+An introduction to radio interferometry, including a separate notebook with solutions.
