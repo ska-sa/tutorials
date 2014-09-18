@@ -3,6 +3,8 @@ Radio Astronomy tutorials
 
 Various IPython notebook based lecture notes and tutorials developed at SKA SA.
 
+Static versions of the notebooks can be accessed using [nbviewer](http://nbviewer.ipython.org), for the full SKA SA tutorial repository [here](http://nbviewer.ipython.org/github/ska-sa/tutorials/tree/master).
+
 1. **Introduction to Radio Astronomy** (~3 hour tutorial) 
 <br/>
 Introduction to Radio Astronomy using data from the KAT-7 radio telescope.
