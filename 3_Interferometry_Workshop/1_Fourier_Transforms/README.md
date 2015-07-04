@@ -9,4 +9,6 @@ The notebooks demonstrate:
 2. Exercise: Construction of a triangle wave function
 3. An explicit DFT
 4. Basic Fourier transform pairs
-
+5. The shift theorem
+6. The similarity theorem
+7. The convolution theorem
