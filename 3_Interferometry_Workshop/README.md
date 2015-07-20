@@ -1,5 +1,5 @@
 Interferometry Workshop
 =======================
 
-Material for the 2015 Radio Interferometry Workshop at NWU.
+Ipython notebook material for the 2015 Radio Interferometry Workshop at NWU.
 
