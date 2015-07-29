@@ -21,7 +21,9 @@ This lecture material and these tutorials were used in the [NASSP](http://www.st
 <br/>
 Notebook material from a week long Radio Interferometry workshop, first developed for the 2015 NWU Radio Interferometry Winter School. 
 
-##Running the Notebooks on SageMath Cloud##
+<br>
+
+###Running the Notebooks on SageMathCloud###
 If you want to run the notebooks without having ipython on your computer, we suggest you try [SageMathCloud](https://cloud.sagemath.com/): 
 
 * Create an account on [SageMathCloud](https://cloud.sagemath.com/)
