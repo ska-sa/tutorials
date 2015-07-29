@@ -24,7 +24,7 @@ Notebook material from a week long Radio Interferometry workshop, first develope
 <br>
 
 ###Running the Notebooks on SageMathCloud###
-If you want to run the notebooks without having ipython on your computer, we suggest you try [SageMathCloud](https://cloud.sagemath.com/): 
+If you want to run the notebooks without having ipython on your computer, we suggest you try [SageMathCloud](https://cloud.sagemath.com/):
 
 * Create an account on [SageMathCloud](https://cloud.sagemath.com/)
 * Start a new project
@@ -36,4 +36,6 @@ If you want to run the notebooks without having ipython on your computer, we sug
 * Navigate through the directory and open the notebook you want to work on by clicking on it
 * Now run the notebook as normal!
 * Notebooks are opened in their own tabs, so you can always go back to "File" and open a new notebook in another tab
+
+Note: A few of the notebooks in this repository require SKA SA internal python modules, such as katpoint.
 
