@@ -16,5 +16,4 @@ The notebooks demonstrate:
 8. <coming>
 9. Looking at Nyquist sampling in the Fourier domain
 10. 2D Fourier transform examples
-11. Signal processing intro
 
