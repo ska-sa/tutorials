@@ -50,10 +50,10 @@ run the container with:
 docker run -d -p 8888:8888 tuts
 ```
 
-you should now be able to access the notebooks from htt://localhost:8888
+you should now be able to access the notebooks from http://localhost:8888
 
 ##Running the Notebooks on SageMathCloud##
-**May be depircated due to the price structure at SageMathCloud**
+**May be depricated due to the price structure at SageMathCloud**
 
 If you want to run the notebooks without having ipython on your computer, we suggest you try [SageMathCloud](https://cloud.sagemath.com/):
 
