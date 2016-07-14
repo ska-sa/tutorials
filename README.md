@@ -17,13 +17,48 @@ Introduction to Radio Astronomy using data from the KAT-7 radio telescope.
 <br/>
 This lecture material and these tutorials were used in the [NASSP](http://www.star.ac.za) honours course in Radio Astronomy. The course broadly follows the NRAO [Essential Radio Astronomy](http://www.cv.nrao.edu/course/astr534/ERA.shtml) course.
 
-4. **Interferometry workshop** 
-<br/>
-Notebook material from a week long Radio Interferometry workshop, first developed for the 2015 NWU Radio Interferometry Winter School. 
+<br>
+3. **Interferometry workshop**
+ <br/>
+ Notebook material from a week long Radio Interferometry workshop, first developed for the 2015 NWU Radio Interferometry Winter School.
+
+
+4. **HartRAO Spectral Line**
+ <br>
+TBA
+<br>
+
+5. **Machine Learning**
+<br>
+Introduction to some basic machine learning notebooks.
 
 <br>
 
+###Building your own docker container with the tutorials###
+**This requires you to have a docker engine system running on your localhost**
+
+Once you have cloned this repository locally with:
+
+```
+git clone https://github.com/ska-sa/tutorials.git
+```
+
+build the image with:
+
+```
+docker build -t tuts .
+```
+
+run the container with:
+```
+docker run -d -p 8888:8888 tuts
+```
+
+you should now be able to access the notebooks from htt://localhost:8888
+
 ###Running the Notebooks on SageMathCloud###
+**May be depircated due to the price structure at SageMathCloud**
+
 If you want to run the notebooks without having ipython on your computer, we suggest you try [SageMathCloud](https://cloud.sagemath.com/):
 
 * Create an account on [SageMathCloud](https://cloud.sagemath.com/)
