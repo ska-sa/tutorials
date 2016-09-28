@@ -6,7 +6,7 @@ USER root
 
 RUN apt-get -y update && apt-get install -y hdf5-tools
 
-RUN pip install --upgrade katdal
+RUN pip2 install --upgrade katdal
 
 USER $NB_USER
 
