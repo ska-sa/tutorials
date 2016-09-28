@@ -68,5 +68,4 @@ If you want to run the notebooks without having ipython on your computer, we sug
 * Now run the notebook as normal!
 * Notebooks are opened in their own tabs, so you can always go back to "File" and open a new notebook in another tab
 
-Note: A few of the notebooks in this repository require SKA SA internal python modules, such as katpoint.
 
