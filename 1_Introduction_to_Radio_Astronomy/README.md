@@ -14,3 +14,6 @@ An introduction to single dish radio astronomy data, including an introduction t
 2. **Interferometry** 
 <br/>
 An introduction to radio interferometry, including a separate notebook with solutions.
+3. **RFI**
+<br/>
+An introduction to radio frequency interference (RFI) in radio astronomy data.
