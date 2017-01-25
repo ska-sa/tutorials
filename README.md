@@ -23,7 +23,7 @@ Notebook material from a week long Radio Interferometry workshop, first develope
 
 (4) **HartRAO Spectral Line**
 <br>
-TBA
+Python tutorials on reducing methanol maser monitoring data from HartRAO. A two week course given at the Ghana Space Science and Technology Institute (GSSTI) as part of the Royal Society radio astronomy capacity building program in Ghana.
 
 (5) **Machine Learning**
 <br>
