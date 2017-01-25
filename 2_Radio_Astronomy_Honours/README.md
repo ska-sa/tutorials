@@ -9,7 +9,9 @@ Some of the sections follow the ERA notes closely, others have tutorials only.
 
 Contents:
 
-1. Fourier Transforms
-2. Radiation Fundamentals
+1. Fourier transforms
+2. Radiation fundamentals
 3. Antennas 
-4. Radiometers 
+4. Radiometers
+5. Emission mechanisms
+6. Pulsars
