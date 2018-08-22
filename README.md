@@ -45,27 +45,18 @@ build the image with:
 docker build -t tuts .
 ```
 
+Note: If you are having build issues that report 'unable to resolve archive.ubuntu.com' or similar errors, try the following build command instead:
+
+```
+docker build -t tuts --network=host .
+```
+
 run the container with:
 ```
-docker run -d -p 8888:8888 tuts
+docker run -d -p 8888:8888 tuts start-notebook.sh --NotebookApp.token=''
 ```
 
 you should now be able to access the notebooks from http://localhost:8888
 
-##Running the Notebooks on SageMathCloud##
-**May be depricated due to the price structure at SageMathCloud**
-
-If you want to run the notebooks without having ipython on your computer, we suggest you try [SageMathCloud](https://cloud.sagemath.com/):
-
-* Create an account on [SageMathCloud](https://cloud.sagemath.com/)
-* Start a new project
-* Inside your new project, click on "New"
-* In the "Name your file or paste in a web link" field, paste the link to this github repo:  https://github.com/ska-sa/tutorials.git 
-* Hit enter and wait a minute or so for the tutorials to download
-* Click on "Files"
-* You should now have the tutorials directory in your project!
-* Navigate through the directory and open the notebook you want to work on by clicking on it
-* Now run the notebook as normal!
-* Notebooks are opened in their own tabs, so you can always go back to "File" and open a new notebook in another tab
-
+**This will run the notebook without any authentication. For more detail on this see [Jupyter Docker Stacks](https://github.com/Paperspace/jupyter-docker-stacks/tree/master/scipy-notebook)**
 
