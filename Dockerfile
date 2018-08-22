@@ -1,4 +1,4 @@
-FROM jupyter/scipy-notebook
+FROM jupyter/scipy-notebook:b4dd11e16ae4
 
 MAINTAINER Lindsay Magnus <lindsay@ska.ac.za>
 
